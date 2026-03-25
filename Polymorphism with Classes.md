@@ -59,3 +59,9 @@ func(mango_obj)
 
 
 ## Result
+The Python program was executed successfully, demonstrating polymorphism using a generic function. The function correctly identified the type and color of both objects:
+
+For Beans → Output: Vegetable, Green
+For Mango → Output: Fruit, Yellow
+
+Thus, the program confirmed that a single function can work with different object types using polymorphism.
