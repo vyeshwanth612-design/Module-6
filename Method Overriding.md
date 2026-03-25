@@ -36,3 +36,4 @@ for sea_creature in (obj_goldfish, obj_hammerhead):
 <img width="997" height="450" alt="image" src="https://github.com/user-attachments/assets/2567d153-ce58-4289-b664-4bd71d68dfa0" />
 
 ## RESULT
+The Python program was executed successfully, demonstrating method overriding. The child class Shark overrides the type() method of the parent class Fish, and the correct method is called based on the object type.
