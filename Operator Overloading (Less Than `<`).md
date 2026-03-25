@@ -52,3 +52,4 @@ print(ob3 < ob4)
 <img width="1011" height="500" alt="image" src="https://github.com/user-attachments/assets/c4132de4-757a-424a-9df7-7d8ec0bd6950" />
 
 ## Result
+The Python program was executed successfully, demonstrating operator overloading using the less than (<) operator. The custom comparison logic worked correctly, and the appropriate message was displayed based on the comparison of the two objects.
