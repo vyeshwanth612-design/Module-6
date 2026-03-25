@@ -49,3 +49,4 @@ except AttributeError:
 
 
 ## Result
+The Python program was executed successfully, demonstrating encapsulation using private member variables. The private attributes __length and __breadth were accessed within the class, ensuring data hiding.
