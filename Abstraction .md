@@ -66,3 +66,4 @@ circ.calculate_area()
 
 
 ## Result
+The Python program was executed successfully, demonstrating the use of an abstract class and method. The subclasses Rectangle and Circle implemented the abstract method and calculated their respective areas correctly.
